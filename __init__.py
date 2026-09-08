@@ -16,7 +16,6 @@ md_iid = "5.0"
 md_version = "1.0"
 md_name = "AppImage Launcher"
 md_description = "Find and launch AppImages"
-md_license = "MIT"
 md_authors = ["local"]
 md_platforms = ["Linux"]
 
